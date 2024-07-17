@@ -1,7 +1,7 @@
 import { headerLogo } from '../assets/images';
 import { hamburger } from '../assets/icons';
 import { navLinks } from '../constants';
-
+import React from 'react';
 const Nav = () => {
     return (
         <header className='padding-x py-8 absolute z-10 w-full'>
